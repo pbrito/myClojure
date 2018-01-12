@@ -71,10 +71,11 @@ BookKeeper core.async durable-queue lazy sequences
 
  -[modern-cljs](https://github.com/magomimmo/modern-cljs)Modern ClojureScript (modern-cljs) is a series of tutorials that guide you in creating and running ClojureScript (CLJS) projects.
  
-###videos
- -Understanding destructuring in Clojure -[video](https://www.youtube.com/watch?v=R-_uNvM6gpE)
- -Above and beyond type systems with clojure.spec - Carlo Sciolla [video](https://www.youtube.com/watch?v=aYKndj6rWbU&t)
- -Understanding pattern matching in Clojure with core.match[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
- -Pattern matching talk (core.match) - Sean Johnson's Clojure/West[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
+### videos
+
+ - Understanding destructuring in Clojure -[video](https://www.youtube.com/watch?v=R-_uNvM6gpE)
+ - Above and beyond type systems with clojure.spec - Carlo Sciolla [video](https://www.youtube.com/watch?v=aYKndj6rWbU&t)
+ - Understanding pattern matching in Clojure with core.match[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
+ - Pattern matching talk (core.match) - Sean Johnson's Clojure/West[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
  
  - https://github.com/hantuzun/awesome-clojurescript/
