@@ -84,5 +84,5 @@
 
 ### baseado 
 
- -[awesome-clojure](https://github.com/razum2um/awesome-clojure)
- -[awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript)
+ - [awesome-clojure](https://github.com/razum2um/awesome-clojure) 
+ - [awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript)
