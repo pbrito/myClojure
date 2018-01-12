@@ -35,6 +35,9 @@ BookKeeper core.async durable-queue lazy sequences
  - [Jespen](https://github.com/jepsen-io/jepsen)- Breaking distributed systems so you don't have to.Jepsen is a Clojure library.[https://aphyr.com/](https://aphyr.com/)
  - [mount](https://github.com/tolitius/mount) - Managed lifecycle and state in Clojure
 
+### Web
+
+  - [Sente](https://github.com/ptaoussanis/sente)
  
 ### Graphics
 - [thi-ng/geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
@@ -69,7 +72,8 @@ BookKeeper core.async durable-queue lazy sequences
 
 ### links
 
- -[modern-cljs](https://github.com/magomimmo/modern-cljs)Modern ClojureScript (modern-cljs) is a series of tutorials that guide you in creating and running ClojureScript (CLJS) projects.
+ -[modern-cljs](https://github.com/magomimmo/modern-cljs) - Modern ClojureScript (modern-cljs) is a series of tutorials that guide you in creating and running ClojureScript (CLJS) projects.
+
  
 ### videos
 
@@ -79,3 +83,8 @@ BookKeeper core.async durable-queue lazy sequences
  - Pattern matching talk (core.match) - Sean Johnson's Clojure/West[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
  
  - https://github.com/hantuzun/awesome-clojurescript/
+
+### baseado 
+
+ -[awesome-clojure](https://github.com/razum2um/awesome-clojure)
+ -[awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript)
