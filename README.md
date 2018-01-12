@@ -12,9 +12,7 @@
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 - [Konserve](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
 - [Onyx](http://www.onyxplatform.org/) - Data Driven API -Onyx knows how to speak to many storage solutions, including those below.
-
-Kafka Datomic SQL Redis ElasticSearch SQS
-BookKeeper core.async durable-queue lazy sequences
+    * Kafka,Datomic, SQL, Redis, ElasticSearch, SQS BookKeeper, core.async, durable-queue, lazy sequences
 
 
 ### Document Object Model
@@ -64,7 +62,7 @@ BookKeeper core.async durable-queue lazy sequences
  - [metosin/spec-tools](https://github.com/metosin/spec-tools) - Clojure(Script) tools for clojure.spec
  - [metosin/komponentit](https://github.com/metosin/komponentit) - Collection of bespoke Reagent components
 
-### [React.js](https://facebook.github.io/react/) Interface
+### React.js Interface
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
 - [Rum](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
 - [re-frankenstein](https://github.com/chpill/re-frankenstein) - This is a fork of re-frame to experiment with local state and rum.
@@ -72,7 +70,7 @@ BookKeeper core.async durable-queue lazy sequences
 
 ### links
 
- -[modern-cljs](https://github.com/magomimmo/modern-cljs) - Modern ClojureScript (modern-cljs) is a series of tutorials that guide you in creating and running ClojureScript (CLJS) projects.
+ - [modern-cljs](https://github.com/magomimmo/modern-cljs) - Modern ClojureScript (modern-cljs) is a series of tutorials that guide you in creating and running ClojureScript (CLJS) projects.
 
  
 ### videos
