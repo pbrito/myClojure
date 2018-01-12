@@ -29,9 +29,9 @@
 - [Lumo](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy [examples](https://github.com/thheller/shadow-cljs-examples)
- - [clojupyter](https://github.com/roryk/clojupyter) - a Jupyter kernel for Clojure
- - [Jespen](https://github.com/jepsen-io/jepsen)- Breaking distributed systems so you don't have to.Jepsen is a Clojure library.[https://aphyr.com/](https://aphyr.com/)
- - [mount](https://github.com/tolitius/mount) - Managed lifecycle and state in Clojure
+- [clojupyter](https://github.com/roryk/clojupyter) - a Jupyter kernel for Clojure
+- [Jespen](https://github.com/jepsen-io/jepsen)- Breaking distributed systems so you don't have to.Jepsen is a Clojure library.[https://aphyr.com/](https://aphyr.com/)
+- [mount](https://github.com/tolitius/mount) - Managed lifecycle and state in Clojure
 
 ### Web
 
