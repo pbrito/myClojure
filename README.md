@@ -8,10 +8,11 @@
 
 
 ### Database
+- [Datomic](http://www.datomic.com/) – The fully transactional, cloud-ready, distributed database.
 - [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 - [Konserve](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
-- [Onyx](http://www.onyxplatform.org/) - Data Driven API -Onyx knows how to speak to many storage solutions, including those below.
+- [Onyx](http://www.onyxplatform.org/) – Data Driven API -Onyx knows how to speak to many storage solutions, including those below.
     * Kafka,Datomic, SQL, Redis, ElasticSearch, SQS BookKeeper, core.async, durable-queue, lazy sequences
 
 
@@ -32,10 +33,11 @@
 - [clojupyter](https://github.com/roryk/clojupyter) - a Jupyter kernel for Clojure
 - [Jespen](https://github.com/jepsen-io/jepsen)- Breaking distributed systems so you don't have to.Jepsen is a Clojure library.[https://aphyr.com/](https://aphyr.com/)
 - [mount](https://github.com/tolitius/mount) - Managed lifecycle and state in Clojure
+- [Riemann](http://riemann.io/)- (Monitoring) Riemann aggregates events from your servers and applications with a powerful stream processing language.
 
 ### Web
 
-  - [Sente](https://github.com/ptaoussanis/sente)
+  - [Sente](https://github.com/ptaoussanis/sente) – Realtime web comms for Clojure/Script.(We don't need no Socket.IO) Or: core.async + Ajax + WebSockets 
  
 ### Graphics
 - [thi-ng/geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
@@ -47,10 +49,13 @@
 
 ## AI 
 - [cortex](https://github.com/thinktopic/cortex) - Machine learning in Clojure
+- [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) -Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs 
+- [neanderthal](https://github.com/uncomplicate/neanderthal) -Fast Clojure Matrix Library
+
 
 ### Miscellaneous
 - [Automat](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
--[compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
+- [compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure.
 - [markdown-clj](https://github.com/yogthos/markdown-clj) – Markdown parser in Clojure/ClojureScript.
 - [core.async](https://github.com/clojure/core.async/) – A Clojure(Script) library designed to provide facilities for async programming and communication.
 - [feeds2imap](https://github.com/Gonzih/feeds2imap.clj)RSS/Atom reader implemented in Clojure
@@ -58,9 +63,9 @@
 - [re-frame](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [test.check](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.
 - [spectrum](https://github.com/arohner/spectrum) - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time.
- - [spectre](https://github.com/nathanmarz/specter) - "Clojure's missing piece" Simple manipulating a non simple data structure [video](https://www.youtube.com/watch?v=rh5J4vacG98&t)
- - [metosin/spec-tools](https://github.com/metosin/spec-tools) - Clojure(Script) tools for clojure.spec
- - [metosin/komponentit](https://github.com/metosin/komponentit) - Collection of bespoke Reagent components
+- [spectre](https://github.com/nathanmarz/specter) - "Clojure's missing piece" Simple manipulating a non simple data structure [video](https://www.youtube.com/watch?v=rh5J4vacG98&t)
+- [metosin/spec-tools](https://github.com/metosin/spec-tools) - Clojure(Script) tools for clojure.spec
+- [metosin/komponentit](https://github.com/metosin/komponentit) - Collection of bespoke Reagent components (On the GPU and CPU)
 
 ### React.js Interface
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
@@ -80,9 +85,8 @@
  - Understanding pattern matching in Clojure with core.match[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
  - Pattern matching talk (core.match) - Sean Johnson's Clojure/West[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
  
- - https://github.com/hantuzun/awesome-clojurescript/
 
-### baseado 
+### Este documento foi baseado em: 
 
  - [awesome-clojure](https://github.com/razum2um/awesome-clojure) 
  - [awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript)
