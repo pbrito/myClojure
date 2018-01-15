@@ -12,9 +12,9 @@
 - [Datascript](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
 - [Jaki](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 - [Konserve](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
-- [Onyx](http://www.onyxplatform.org/) – Data Driven API -Onyx knows how to speak to many storage solutions, including those below.
+- [Onyx](http://www.onyxplatform.org/) – Data Driven API -Onyx knows how to speak to many storage solutions, including those below:
     * Kafka,Datomic, SQL, Redis, ElasticSearch, SQS BookKeeper, core.async, durable-queue, lazy sequences
-
+- [Cascalog](http://cascalog.org/)Cascalog is a fully-featured data processing and querying library for Clojure or Java. The main use cases for Cascalog are processing "Big Data" on top of Hadoop or doing analysis on your local computer.
 
 ### Document Object Model
 - [cljs-binding](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
@@ -34,11 +34,14 @@
 - [Jespen](https://github.com/jepsen-io/jepsen)- Breaking distributed systems so you don't have to.Jepsen is a Clojure library.[https://aphyr.com/](https://aphyr.com/)
 - [mount](https://github.com/tolitius/mount) - Managed lifecycle and state in Clojure
 - [Riemann](http://riemann.io/)- (Monitoring) Riemann aggregates events from your servers and applications with a powerful stream processing language.
+- [Midje](https://github.com/marick/Midje)- Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing
+- [Lightmod](https://sekao.net/lightmod/) - A full stack Clojure dev tool[video](https://www.youtube.com/watch?v=1_iwCGh5j8I)
 
 ### Web
 
   - [Sente](https://github.com/ptaoussanis/sente) – Realtime web comms for Clojure/Script.(We don't need no Socket.IO) Or: core.async + Ajax + WebSockets 
- 
+  - [fulcro](https://github.com/fulcrologic/fulcro) –Fulcro 2.0 is a library for building data-driven full-stack applications for the web. It uses React
+  
 ### Graphics
 - [thi-ng/geom](https://github.com/thi-ng/geom) – A 2D/3D geometry toolkit for Clojure/Clojurescript.
 - [Quil](https://github.com/quil/quil) - Clojure/ClojureScript library for creating interactive drawings and animations. 
@@ -46,12 +49,13 @@
 - [clojure2d](https://github.com/Clojure2D/clojure2d) -Java2D wrapper + creative coding supporting functions (based on Processing and openFrameworks)
 - [afterglow](https://github.com/brunchboy/afterglow)- A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone (rich binding to an Ableton Push or Novation Launchpad).
 
-
 ## AI 
 - [cortex](https://github.com/thinktopic/cortex) - Machine learning in Clojure
 - [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) -Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs 
 - [neanderthal](https://github.com/uncomplicate/neanderthal) -Fast Clojure Matrix Library
-
+- [incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM
+- [dl4clj](https://github.com/yetanalytics/dl4clj) - Port of deeplearning4j to clojure 
+- [https://github.com/michaellindon](https://github.com/michaellindon)
 
 ### Miscellaneous
 - [Automat](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
@@ -66,18 +70,29 @@
 - [spectre](https://github.com/nathanmarz/specter) - "Clojure's missing piece" Simple manipulating a non simple data structure [video](https://www.youtube.com/watch?v=rh5J4vacG98&t)
 - [metosin/spec-tools](https://github.com/metosin/spec-tools) - Clojure(Script) tools for clojure.spec
 - [metosin/komponentit](https://github.com/metosin/komponentit) - Collection of bespoke Reagent components (On the GPU and CPU)
+- [metamorphic](https://github.com/PyroclastIO/metamorphic) - A complex event processing library for Clojure and ClojureScript.
+
 
 ### React.js Interface
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
 - [Rum](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
 - [re-frankenstein](https://github.com/chpill/re-frankenstein) - This is a fork of re-frame to experiment with local state and rum.
-- [chestnut](https://github.com/plexus/chestnut) - This template comes with Figwheel + React (+om | +om-next | Reagent | re-frame | Rum | vanilla to ) +Ring + Compojure (Jetty or HttpKit server) + Heroku support +Unit tests 
+- [chestnut](https://github.com/plexus/chestnut) - This template comes with: 
+    * Figwheel + 
+    - React (+om | +om-next | Reagent | re-frame | Rum | vanilla to ) 
+    - Ring + Compojure (Jetty or HttpKit server) 
+    - Heroku support 
+    - Unit tests 
 
 ### links
 
  - [modern-cljs](https://github.com/magomimmo/modern-cljs) - Modern ClojureScript (modern-cljs) is a series of tutorials that guide you in creating and running ClojureScript (CLJS) projects.
 
+ ## Monads
  
+   * [cats](https://github.com/funcool/cats)
+   * [algo.monads](https://github.com/clojure/algo.monads)
+   
 ### videos
 
  - Understanding destructuring in Clojure -[video](https://www.youtube.com/watch?v=R-_uNvM6gpE)
