@@ -50,12 +50,12 @@
 - [afterglow](https://github.com/brunchboy/afterglow)- A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone (rich binding to an Ableton Push or Novation Launchpad).
 
 ## AI 
-- [cortex](https://github.com/thinktopic/cortex) - Machine learning in Clojure
+- [cortex](https://github.com/thinktopic/cortex) - Machine learning in Clojure [exp. fraud](https://github.com/joycex99/fraud-detection)[exp. russia](https://github.com/joycex99/russia-housing)
 - [deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) -Deep Learning for Java, Scala & Clojure on Hadoop & Spark With GPUs 
 - [neanderthal](https://github.com/uncomplicate/neanderthal) -Fast Clojure Matrix Library
 - [incanter](https://github.com/incanter/incanter) - Clojure-based, R-like statistical computing and graphics environment for the JVM
 - [dl4clj](https://github.com/yetanalytics/dl4clj) - Port of deeplearning4j to clojure 
-- [https://github.com/michaellindon](https://github.com/michaellindon)
+- [Distributions for Clojure](https://github.com/michaellindon/distributions) Distributions is a statistical computing environment for Clojure. It uses Clojures protocols and multimethods to build a rich abstraction for interacting with and manipulating probability distributions, as well as extra functionality to make the lives of those working with probabilistic models little bit easier. 
 
 ### Miscellaneous
 - [Automat](https://github.com/ztellman/automat) – A Clojure(Script) library for defining and using finite-state automata, inspired by Ragel.
