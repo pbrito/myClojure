@@ -83,7 +83,7 @@
     - Ring + Compojure (Jetty or HttpKit server) 
     - Heroku support 
     - Unit tests 
--[zajal](https://github.com/nasser/zajal)- creative coding framework, built on ClojureScript, Pixi.js, ThreeJ
+- [zajal](https://github.com/nasser/zajal)- creative coding framework, built on ClojureScript, Pixi.js, ThreeJ
 
 ### links
 
