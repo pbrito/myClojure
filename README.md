@@ -84,6 +84,7 @@
     - Heroku support 
     - Unit tests 
 - [zajal](https://github.com/nasser/zajal)- creative coding framework, built on ClojureScript, Pixi.js, ThreeJ
+- [formik](https://github.com/jaredpalmer/formik) - A replacer for Redux-Form [video](https://www.youtube.com/watch?time_continue=502&v=yNiJkjEwmpw)
 
 ### links
 
@@ -101,7 +102,8 @@
  - Understanding pattern matching in Clojure with core.match[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
  - Pattern matching talk (core.match) - Sean Johnson's Clojure/West[video](https://www.youtube.com/watch?v=mi3OtBc73-k)
  
-
+### Games
+ - [boardgame.io](https://github.com/google/boardgame.io)-The goal of this framework is to allow a game author to essentially translate the rules of a game into a series of simple functions that describe how the game state changes
 ### Este documento foi baseado em: 
 
  - [awesome-clojure](https://github.com/razum2um/awesome-clojure) 
