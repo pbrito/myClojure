@@ -85,6 +85,8 @@
     - Unit tests 
 - [zajal](https://github.com/nasser/zajal)- creative coding framework, built on ClojureScript, Pixi.js, ThreeJ
 - [formik](https://github.com/jaredpalmer/formik) - A replacer for Redux-Form [video](https://www.youtube.com/watch?time_continue=502&v=yNiJkjEwmpw)
+- [vx](https://github.com/hshoff/vx)- combines the power of d3 to generate your visualization with the benefits of react for updating the DOM
+
 
 ### links
 
