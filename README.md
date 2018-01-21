@@ -106,6 +106,10 @@
  
 ### Games
  - [boardgame.io](https://github.com/google/boardgame.io)-The goal of this framework is to allow a game author to essentially translate the rules of a game into a series of simple functions that describe how the game state changes
+
+## Node.js
+- [generator-nodeserver](https://github.com/ibm-developer/generator-nodeserver)Combine the microservice pattern with a web app for a backend-for-frontend pattern.[video](https://www.youtube.com/watch?v=Fbhhc4jtGW4&t)
+ 
 ### Este documento foi baseado em: 
 
  - [awesome-clojure](https://github.com/razum2um/awesome-clojure) 
