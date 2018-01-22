@@ -109,6 +109,7 @@
 
 ## Node.js
 - [generator-nodeserver](https://github.com/ibm-developer/generator-nodeserver)Combine the microservice pattern with a web app for a backend-for-frontend pattern.[video](https://www.youtube.com/watch?v=Fbhhc4jtGW4&t)
+- [fastify][https://github.com/fastify/fastify] Fast and low overhead web framework, for Node.js 
  
 ### Este documento foi baseado em: 
 
