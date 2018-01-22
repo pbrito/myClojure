@@ -113,6 +113,7 @@
 - [eggs](https://github.com/eggjs/egg) -(Alibaba)Born to build better enterprise frameworks and apps with Node.js & Koa
 - [beidou](https://github.com/alibaba/beidou) -Isomorphic framework for server-rendered React apps.
 - [generator-nodeserver](https://github.com/ibm-developer/generator-nodeserver)Combine the microservice pattern with a web app for a backend-for-frontend pattern.[video](https://www.youtube.com/watch?v=Fbhhc4jtGW4&t)
+- [appmetrics](https://github.com/RuntimeTools/appmetrics)- Node Application Metrics instruments the Node.js runtime for performance monitoring, providing the monitoring data via an API. Additionally the data can be visualized by using the Node Application Metrics Dashboard.
 - [fastify][https://github.com/fastify/fastify] Fast and low overhead web framework, for Node.js 
  
 ### Este documento foi baseado em: 
