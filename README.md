@@ -88,6 +88,7 @@
 - [formik](https://github.com/jaredpalmer/formik) - A replacer for Redux-Form [video](https://www.youtube.com/watch?time_continue=502&v=yNiJkjEwmpw)
 - [vx](https://github.com/hshoff/vx)- combines the power of d3 to generate your visualization with the benefits of react for updating the DOM
 - [ant-design](https://github.com/ant-design/ant-design)- An enterprise-class UI design language and React-based implementation.
+- [weex](https://github.com/apache/incubator-weex)- A framework for building Mobile cross-platform UI (based on vue.js - alibaba).
 
 ### links
 
