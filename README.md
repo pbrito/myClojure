@@ -48,6 +48,7 @@
 - [C2](https://keminglabs.com/c2) – It lets you declaratively create HTML and SVG markup based on data.
 - [clojure2d](https://github.com/Clojure2D/clojure2d) -Java2D wrapper + creative coding supporting functions (based on Processing and openFrameworks)
 - [afterglow](https://github.com/brunchboy/afterglow)- A live-coding lighting controller, building on the Open Lighting Architecture with Clojure and bits of Overtone (rich binding to an Ableton Push or Novation Launchpad).
+- [g2](https://github.com/antvis/g2) - G2 is a visualization grammar, a data-driven visual language with a high level of usability and scalability. It provides a set of grammars, takes users beyond a limited set of charts to an almost unlimited world of graphical forms. 
 
 ## AI 
 - [cortex](https://github.com/thinktopic/cortex) - Machine learning in Clojure [exp. fraud](https://github.com/joycex99/fraud-detection)[exp. russia](https://github.com/joycex99/russia-housing)
