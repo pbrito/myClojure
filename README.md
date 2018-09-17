@@ -120,3 +120,4 @@
 
  - [awesome-clojure](https://github.com/razum2um/awesome-clojure) 
  - [awesome-clojurescript](https://github.com/hantuzun/awesome-clojurescript)
+ - [Clojure-Resources](https://github.com/matthiasn/Clojure-Resources)
